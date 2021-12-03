@@ -11,7 +11,7 @@
   
   .logo::before {
 	content: "";
-	background: url(/imgs/phx.png);
+	background: url(imgs/phx.png);
 	position: absolute;
 	width: 100%;
 	height: 100%;
